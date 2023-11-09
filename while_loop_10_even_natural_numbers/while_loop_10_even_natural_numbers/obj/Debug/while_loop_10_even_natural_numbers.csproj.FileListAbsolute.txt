@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-4\while_loop_10_even_natural_numbers\while_loop_10_even_natural_numbers\bin\Debug\while_loop_10_even_natural_numbers.exe.config
+D:\Mphasis-B2\Day-4\while_loop_10_even_natural_numbers\while_loop_10_even_natural_numbers\bin\Debug\while_loop_10_even_natural_numbers.exe
+D:\Mphasis-B2\Day-4\while_loop_10_even_natural_numbers\while_loop_10_even_natural_numbers\bin\Debug\while_loop_10_even_natural_numbers.pdb
+D:\Mphasis-B2\Day-4\while_loop_10_even_natural_numbers\while_loop_10_even_natural_numbers\obj\Debug\while_loop_10_even_natural_numbers.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-4\while_loop_10_even_natural_numbers\while_loop_10_even_natural_numbers\obj\Debug\while_loop_10_even_natural_numbers.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-4\while_loop_10_even_natural_numbers\while_loop_10_even_natural_numbers\obj\Debug\while_loop_10_even_natural_numbers.exe
+D:\Mphasis-B2\Day-4\while_loop_10_even_natural_numbers\while_loop_10_even_natural_numbers\obj\Debug\while_loop_10_even_natural_numbers.pdb

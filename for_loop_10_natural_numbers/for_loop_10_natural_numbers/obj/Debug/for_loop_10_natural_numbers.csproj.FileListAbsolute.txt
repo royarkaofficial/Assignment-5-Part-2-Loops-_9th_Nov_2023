@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-4\for_loop_10_natural_numbers\for_loop_10_natural_numbers\bin\Debug\for_loop_10_natural_numbers.exe.config
+D:\Mphasis-B2\Day-4\for_loop_10_natural_numbers\for_loop_10_natural_numbers\bin\Debug\for_loop_10_natural_numbers.exe
+D:\Mphasis-B2\Day-4\for_loop_10_natural_numbers\for_loop_10_natural_numbers\bin\Debug\for_loop_10_natural_numbers.pdb
+D:\Mphasis-B2\Day-4\for_loop_10_natural_numbers\for_loop_10_natural_numbers\obj\Debug\for_loop_10_natural_numbers.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-4\for_loop_10_natural_numbers\for_loop_10_natural_numbers\obj\Debug\for_loop_10_natural_numbers.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-4\for_loop_10_natural_numbers\for_loop_10_natural_numbers\obj\Debug\for_loop_10_natural_numbers.exe
+D:\Mphasis-B2\Day-4\for_loop_10_natural_numbers\for_loop_10_natural_numbers\obj\Debug\for_loop_10_natural_numbers.pdb
